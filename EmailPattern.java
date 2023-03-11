@@ -34,6 +34,21 @@ else {
 	System.out.println("Invalid ");
 
 }
+		//Or
+		if (maching) {
+			//System.out.println("Valid email");
+		} else {
+			System.out.println("Enter a valid email id ");
+
+		}
+
+		if (phnmaching) {
+			//System.out.println("Valid phone number");
+
+		} else {
+			System.out.println("Enter a valid phone number ");
+
+		}
 	}
 
 }
